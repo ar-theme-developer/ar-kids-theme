@@ -1,0 +1,17 @@
+.kids-group {
+    display: flex;
+}
+.rwmb-field.one-third {
+    width: 30%;
+    display: block;
+    padding: 10px;
+}
+.rwmb-field.one-fourth {
+    width: 25%;
+    display: block;
+    padding: 10px;
+}
+.one-fourth .rwmb-label {
+    width: 100%;
+    padding-bottom: 10px;
+}
